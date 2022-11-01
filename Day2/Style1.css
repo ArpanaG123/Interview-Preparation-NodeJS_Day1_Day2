@@ -1,0 +1,15 @@
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.line{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.lists{
+    font-style: italic;
+}
+
+body{
+    background-image: linear-gradient(lightpink,lightyellow,lightblue);
+}
